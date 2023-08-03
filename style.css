@@ -1,0 +1,35 @@
+p, h1, h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.first-container > p {
+    width: 70%
+}
+
+.get-tips {
+    background-color: #4856DF;
+    
+}
+.second-container {
+    border-bottom: 1px solid #DFDFDF;
+}
+
+.card-title {
+    display: flex;
+    gap: 10px;
+    padding-bottom: 15px;
+}
+.card-title > h2 {
+    font-weight: 600;
+}
+.text {
+    font-size: 14px;
+}
+
+.card-properties {
+    border: 1px solid #DFDFDF;
+    width: 350px;
+    height: 190;
+    padding: 25px;
+}
